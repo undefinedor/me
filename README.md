@@ -7,7 +7,7 @@
     <strong>
   </summary>
 
-> Now Seek job opportunities.
+> Now seek job opportunities.
 
 </details>
 
